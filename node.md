@@ -7,3 +7,9 @@ npm uninstall gulp
 npm install gulp --global
 
 npm install vue --save-dev === npm i vue -D
+
+///////// 웹팩
+
+npm init -y
+npm i webpack webpack-cli -D
+npm i lodash
